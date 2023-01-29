@@ -18,6 +18,8 @@ Use `npm install` to add `express`, `dotenv`, and `cors`
 - dotenv
 - CORS
 
+![Web Request Response Cycle for City Explorer API](data/images/wrrc-lab-07.jpg)
+
 ## Change Log
 
 01-28-2023 9:00pm - Initial deployment of static weather API capable server
