@@ -27,6 +27,7 @@ Use `npm install` to add `express`, `dotenv`, and `cors`
 
 1.0.0 - 01-28-2023 9:00pm - Initial deployment of static weather API capable server
 1.0.1 - 02-02-2023 7:50pm - Deployment of dynamic weather API and movie database API to display weather and movies for searched city.
+1.0.2 - 02-08-2023 7:51pm - Deployment of cache to prevent over hammering the APIs
 
 ## Feature Time Estimates
 
@@ -66,7 +67,7 @@ Estimate of time needed to complete: 3 hours
 
 Start time: 2023-02-01T16:30-08:00
 
-Finish time: 2023-01-28T19:15-08:00
+Finish time: 2023-02-01T19:15-08:00
 
 Actual time needed to complete: 3 hours, 15 minutes
 
@@ -76,6 +77,16 @@ Estimate of time needed to complete: 2 hours
 
 Start time: 2023-02-02T16:30-08:00
 
-Finish time: 2023-01-28T17:30-08:00
+Finish time: 2023-02-02T17:30-08:00
 
 Actual time needed to complete: 1 hour
+
+### Performance
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 2023-02-08T18:30-08:00
+
+Finish time: 2023-02-08T19:51-08:00
+
+Actual time needed to complete: 1 hour, 21 minutes
